@@ -188,9 +188,9 @@
     "categories": ["all", "2P"]
   },
   {
-    "name": "CSGO Parkour",
-    "link": "https://yandex.com/games/app/203069?flags={%22adv_sticky_banner_disabled%22:true}",
-    "image": "/assets/media/icons/csgoparkour.webp",
+    "name": "CSGOCLICKER",
+    "link": "https://dwunblockedgame.netlify.app/csgoclicker/",
+    "image": "/assets/media/icons/case1.webp",
     "categories": ["all"]
   },
   {
@@ -766,9 +766,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Apex Legends",
-    "link": "https://play.geforcenow.com/games?game-id=cb2b1b5f-54ba-45fd-9839-96bbfe1376cd&lang=en_US&asset-id=01_c6efce00-e91e-402a-8b72-f4971f89c528",
-    "image": "/assets/media/icons/apex.webp",
+    "name": "10 Minutes Till Dawn",
+    "link": "https://dwunblockedgame.netlify.app/10minutestilldawn/",
+    "image": "/assets/media/icons/10min.webp",
     "categories": ["all"]
   },
   {
