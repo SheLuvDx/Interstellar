@@ -235,8 +235,8 @@
     "categories": ["all", "social", "stream", "media"]
   },
   {
-    "name": "YouTube (Invidious)",
-    "link": "https://vid.puffyan.us/",
+    "name": "YouTube Backup",
+    "link": "https://piped.video",
     "image": "/assets/media/icons/youtube.webp",
     "categories": ["all", "social", "stream", "media"]
   },
